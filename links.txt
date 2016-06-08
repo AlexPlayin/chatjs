@@ -1,0 +1,5 @@
+https://nmap.org/
+http://www.fail2ban.org/wiki/index.php/Main_Page
+https://wiki.ubuntu.com/UncomplicatedFirewall
+https://blog.mattbrock.co.uk/hardening-the-security-on-ubuntu-server-14-04/
+https://help.ubuntu.com/14.04/serverguide/firewall.html
